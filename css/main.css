@@ -1,7 +1,9 @@
 body {
 	background-color: #E8E8E8;
+	font-family: Helvetica, sans-serif;
 }
 
 img {
 	border-style: solid;
+	max-width: 600px;
 }
