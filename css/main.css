@@ -2,13 +2,13 @@ body {
 	font-family: Helvetica, sans-serif;
 	font-size: 18px;
 
-	<!-- extra styling -->
+	/* extra styling */
 	background-color: #E8E8E8;
 }
 
 img {
 	max-width: 600px;
 
-	<!-- extra styling -->
+	/* extra styling */
 	border-style: solid;
 }
