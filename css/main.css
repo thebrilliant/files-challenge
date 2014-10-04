@@ -1,9 +1,14 @@
 body {
-	background-color: #E8E8E8;
 	font-family: Helvetica, sans-serif;
+	font-size: 18px;
+
+	<!-- extra styling -->
+	background-color: #E8E8E8;
 }
 
 img {
-	border-style: solid;
 	max-width: 600px;
+
+	<!-- extra styling -->
+	border-style: solid;
 }
